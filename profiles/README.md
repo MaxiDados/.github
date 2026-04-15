@@ -14,4 +14,5 @@ Utilizamos tecnologias de ponta para construir pipelines escaláveis e dashboard
 - [x] Automação de pipelines financeiros e comerciais.
 
 ---
-📫 **Contato:** [Seu e-mail ou Link do LinkedIn]
+📫 **Contato:** 
+[[LinkedIn Maxinutri](https://www.linkedin.com/company/maxinutrioficial/)]
